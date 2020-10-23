@@ -11,6 +11,8 @@ Created a app for shopify
 
 4.- ngrok http 3000
 
+5.-npm install --save koa @shopify/koa-shopify-auth dotenv koa-session isomorphic-fetch
+
 
 
 
